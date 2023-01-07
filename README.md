@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # network-protection1
 =======
 Домашнее задание к занятию 13.3. «Защита сети»
@@ -16,7 +16,7 @@ sudo nmap -sV < ip-адрес >
 
 В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.
 
-!
+![Задание 1](https://github.com/Firewal7/network-protection/blob/main/1.jpg)
 
 Все попытки сканирования отображаются в Лог файлах.
 
@@ -27,8 +27,8 @@ hydra -L users.txt -P pass.txt < ip-адрес > ssh
 
 В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат
 
-!
+![Задание 1](https://github.com/Firewal7/network-protection/blob/main/2.jpg)
 
 
 Все попытки входа отображаются в Лог файлах. 
->>>>>>> 881191f (add file)
+
